@@ -1,3 +1,4 @@
+//? Variables
 // let name = 'baki' // String
 // let isHappy = true; // Boolean
 // let age = 26; // number
@@ -8,7 +9,7 @@ salary = 20000;
 const employee = 'Kabir';
 
 // ----------------------------------
-//? Math operation 
+//? Math operation & Conditionals
 let chairPrice = 5000;
 let tablePrice = 7500;
 let chairQuantity = 2;
