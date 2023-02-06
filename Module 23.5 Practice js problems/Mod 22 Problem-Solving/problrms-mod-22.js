@@ -27,7 +27,7 @@ function secondLargest(array) {
 }
 
 
-function secondLargest(array) {
+function secondLargest(array){
   let first = array[0];
   let second = -Infinity;
 
